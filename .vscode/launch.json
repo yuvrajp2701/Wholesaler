@@ -1,0 +1,37 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Register.php",
+            "file": "C:\\xampp\\htdocs\\project\\register.php"
+        }
+        ,
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open login.php",
+            "file": "C:\\xampp\\htdocs\\project\\login.php"
+        }
+        ,
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open homepage.php",
+            "file": "C:\\xampp\\htdocs\\project\\homepage.php"
+        }
+     ,
+     {
+        "type": "chrome",
+        "request": "launch",
+        "name": "Open index.html",
+        "file": "C:\\xampp\\htdocs\\project\\image-slider-with-multi-control-nothing4us\\dist\\index.html"
+    }
+  
+    ]
+    
+}
